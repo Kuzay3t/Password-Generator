@@ -1,8 +1,6 @@
 
 # Password Generator
 
-# SecurePass-Generator
-
 ## 🔐 A Simple Python Password Generator  
 
 This is a Python-based tool that generates secure, random passwords for your online accounts. You can customize password length and choose to include or exclude uppercase letters, lowercase letters, numbers, and special symbols for enhanced security.
